@@ -1,0 +1,14 @@
+{
+    "name": "travis/homework",
+    "description": "trabalho com travis-ci",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Guilherme Westrup da Silva",
+            "email": "westrupguilherme@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
